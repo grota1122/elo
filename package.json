@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Bot łączący mta z discordem ",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "dev:watch": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vAnimo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "forever": "^3.0.4",
+    "gamedig": "^3.0.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "rn": "0.0.1"
+  }
+}
