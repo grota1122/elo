@@ -13,6 +13,6 @@ module.exports = {
 	typnagrody: "auto", // auto albo kasa
 	modelauta: 502, // model auta z mtawiki
 	nagrodailosc: "1", //ilosc kasy jezeli hajsiwko
-    token: "ODI2OTIyMTU3MzU5MTA0MTAw.YGThRQ.ed8KS4M4ca7DhRgCqALpw788xpk", // token bota
+    token: "ODI2OTIyMTU3MzU5MTA0MTAw.YGThRQ.a3aEXor8P0B4A9JXGjbuJqwcJKo", // token bota
     prefix: "!",
 }
